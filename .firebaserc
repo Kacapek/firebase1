@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-example-3a943": {
+      "hosting": {
+        "firebase-example": [
+          "fir-example-3a943"
+        ]
+      }
+    }
+  }
+}
